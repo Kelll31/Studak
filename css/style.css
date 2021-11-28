@@ -245,7 +245,7 @@ section {
 }
 
 .pattern:before {
-    background: #088dcd url("../images/dot-pattern.png") repeat scroll 0 0;
+    background: #3D2A54 url("../images/dot-pattern.png") repeat scroll 0 0;
     opacity: 0.45;
 }
 
@@ -254,7 +254,7 @@ section {
 }
 
 .bluesh:before {
-    background: #088dcd;
+    background: #3D2A54;
 }
 
 .exthigh-opacity:before {
@@ -847,7 +847,7 @@ header.sticky {
 }
 
 .timeline-info .admin-name > h5 {
-    color: #088dcd;
+    color: #3D2A54;
     display: inline-block;
     font-size: 24px;
     font-weight: 500;
@@ -2069,7 +2069,7 @@ footer {
 }
 
 footer::before {
-    background: rgba(0, 0, 0, 0) linear-gradient(to right, #ffffff 0%, #2fa7cd 50%, #ffffff 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) linear-gradient(to right, #ffffff 0%, #3D2A54 50%, #ffffff 100%) repeat scroll 0 0;
     content: "";
     height: 5px;
     position: absolute;
@@ -2887,7 +2887,7 @@ li.google {
 }
 
 .g-map::before {
-    background: #088dcd none repeat scroll 0 0;
+    background: #3D2A54 none repeat scroll 0 0;
     content: "";
     height: 100%;
     left: 0;
@@ -2905,7 +2905,7 @@ li.google {
 }
 
 .map-meta {
-    background: #088dcd none repeat scroll 0 0;
+    background: #3D2A54 none repeat scroll 0 0;
     color: #fff;
     left: 10%;
     padding: 20px;
@@ -4723,7 +4723,7 @@ canvas {
 }
 
 .top-area > ul.main-menu > li::after {
-    content: "";
+    content: "";
     font-family: fontawesome;
     font-size: 13px;
     position: absolute;
@@ -6704,7 +6704,7 @@ a.reply {
 }
 
 .menu-container {
-    background-color: #088dcd;
+    background-color: #3D2A54;
     -webkit-border-radius: 100%;
     -moz-border-radius: 100%;
     -ms-border-radius: 100%;
