@@ -39,7 +39,7 @@
 		</div>
 		<nav id="menu" class="res-menu">
 			<ul>
-				<li><span>Дом</span>
+				<li><span><a href="newsfeed.html" title="">Дом</a></span>
 					<ul> 
 						<li><a href="landing.html" title="">Вход</a></li>
 						<li><a href="logout.html" title="">Выход</a></li> 
@@ -352,7 +352,7 @@
 					</div>
 					<div class="col-lg-8">
 						<div class="help-topic">
-							<h2>How do i post video on winku?</h2>
+							<h2>Как есть мягкие французкие булочки?</h2>
 							<div class="help-assistant">
 								<span class="verified"><i class="ti-check-box"></i></span>
 								<figure><img src="images/resources/admin3.jpg" alt=""></figure>
@@ -363,18 +363,18 @@
 							</div>
 							<div class="post-dated">
 								<i class="ti-calendar"></i>
-								<span>Last updated: Мартch 2019</span>
+								<span>Обновленно: Март 2019</span>
 							</div>
 							<div class="help-description">
 								<p>
-									Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum
+									Съешь ещё этих мягких французских булок да выпей чаю. Съешь ещё этих мягких французских булок да выпей чаю. Съешь ещё этих мягких французских булок да выпей чаю. Съешь ещё этих мягких французских булок да выпей чаю.  magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum
 								</p>
 								<p>
 									quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur
 								</p>
 								<figure><img src="images/resources/help-shot.jpg" alt=""></figure>
 								<p>
-									Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni.
+									Съешь ещё этих мягких французских булок да выпей чаю. Съешь ещё этих мягких французских булок да выпей чаю. Съешь ещё этих мягких французских булок да выпей чаю. Съешь ещё этих мягких французских булок да выпей чаю.  magni.
 								</p>
 							</div>
 							<div class="is-helpful">

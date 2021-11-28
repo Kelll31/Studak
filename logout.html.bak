@@ -39,7 +39,7 @@
 		</div>
 		<nav id="menu" class="res-menu">
 			<ul>
-				<li><span>Дом</span>
+				<li><span><a href="newsfeed.html" title="">Дом</a></span>
 					<ul> 
 						<li><a href="landing.html" title="">Вход</a></li>
 						<li><a href="logout.html" title="">Выход</a></li> 

@@ -39,7 +39,7 @@
 		</div>
 		<nav id="menu" class="res-menu">
 			<ul>
-				<li><span>Дом</span>
+				<li><span><a href="newsfeed.html" title="">Дом</a></span>
 					<ul> 
 						<li><a href="landing.html" title="">Вход</a></li>
 						<li><a href="logout.html" title="">Выход</a></li> 
@@ -331,43 +331,43 @@
 					</div>
 					
 					<div class="offset-lg-1 col-lg-10">
-						<h3 class="resutl-found">3 result found for <span>"how to post video on winku?"</span></h3>
+						<h3 class="resutl-found">3 результата <span>"how to post video on winku?"</span></h3>
 						<div class="help-topic-result">
 							<span class="checkd"><i class="ti-check-box"></i></span>
-							<h2><a href="#" title="">How do i post video on winku?</a></h2>
+							<h2><a href="#" title="">Как есть мягкие французкие булочки?</a></h2>
 							<div class="post-dated">
 								<i class="ti-calendar"></i>
-								<span>Last updated: Мартch 2019</span>
+								<span>Обновленно: Март 2019</span>
 							</div>
 							<div class="help-description">
 								<p>
-									Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur
+									Съешь ещё этих мягких французских булок да выпей чаю. Съешь ещё этих мягких французских булок да выпей чаю. Съешь ещё этих мягких французских булок да выпей чаю. Съешь ещё этих мягких французских булок да выпей чаю. 
 								</p>
 							</div>
 						</div>
 						<div class="help-topic-result">
 							<span class="checkd"><i class="ti-check-box"></i></span>
-							<h2><a href="#" title="">How do i post video on winku?</a></h2>
+							<h2><a href="#" title="">Как есть мягкие французкие булочки?</a></h2>
 							<div class="post-dated">
 								<i class="ti-calendar"></i>
-								<span>Last updated: Мартch 2019</span>
+								<span>Обновленно: Март 2019</span>
 							</div>
 							<div class="help-description">
 								<p>
-									Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur
+									Съешь ещё этих мягких французских булок да выпей чаю. Съешь ещё этих мягких французских булок да выпей чаю. Съешь ещё этих мягких французских булок да выпей чаю. Съешь ещё этих мягких французских булок да выпей чаю. 
 								</p>
 							</div>
 						</div>
 						<div class="help-topic-result">
 							<span class="checkd"><i class="ti-check-box"></i></span>
-							<h2><a href="#" title="">How do i post video on winku?</a></h2>
+							<h2><a href="#" title="">Как есть мягкие французкие булочки?</a></h2>
 							<div class="post-dated">
 								<i class="ti-calendar"></i>
-								<span>Last updated: Мартch 2019</span>
+								<span>Обновленно: Март 2019</span>
 							</div>
 							<div class="help-description">
 								<p>
-									Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur
+									Съешь ещё этих мягких французских булок да выпей чаю. Съешь ещё этих мягких французских булок да выпей чаю. Съешь ещё этих мягких французских булок да выпей чаю. Съешь ещё этих мягких французских булок да выпей чаю. 
 								</p>
 							</div>
 						</div>
